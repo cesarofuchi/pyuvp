@@ -1,20 +1,4 @@
-=====
-pyuvp
-=====
-
-
-.. image:: https://img.shields.io/pypi/v/pyuvp.svg
-        :target: https://pypi.python.org/pypi/pyuvp
-
-.. image:: https://img.shields.io/travis/cesarofuchi/pyuvp.svg
-        :target: https://travis-ci.com/cesarofuchi/pyuvp
-
-.. image:: https://readthedocs.org/projects/pyuvp/badge/?version=latest
-        :target: https://pyuvp.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
-
+# pyuvp
 
 pyuvp is a python package with ultrasonic velocity profiler Doppler algorithms
 
@@ -23,13 +7,14 @@ pyuvp is a python package with ultrasonic velocity profiler Doppler algorithms
 * Documentation: https://pyuvp.readthedocs.io.
 
 
-Features
---------
+## Features
 
-* TODO
 
-Credits
--------
+* Autocorrelation
+* Extended Autocorrelation
+
+## Credits
+
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
