@@ -42,4 +42,12 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 César Yutaka Ofuchi
 
 Fabio Rizental Coutinho
-
+```
+@Manual{pyuvp,
+  author  = {Ofuchi, Cesar and Coutinho, Fabio}  
+  title   = {pyuvp: An open source ultrasonic velocity profile library in Python},  
+  year    = {2021},  
+  month   = {June},  
+  note    = {pyup version 0.1.0}    
+}
+```
