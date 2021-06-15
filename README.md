@@ -21,6 +21,11 @@ staggered trigger
 
 staggered trigger triple PRT
 
+## Quick Start
+
+open the file in `Google Colab` and follow the instructions
+
+https://github.com/cesarofuchi/pyuvp/blob/master/test_pyuvp_eam.ipynb
 
 ## Credits
 * Universidade Tecnológica Federal do Parana - UTFPR
