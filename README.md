@@ -14,8 +14,11 @@ We propose to share algorithms and techniques, starting with dealising methods
 * Extended Autocorrelation
 
 Under development:
+
 cross-correlation
+
 staggered trigger
+
 staggered trigger triple PRT
 
 
