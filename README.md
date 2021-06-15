@@ -1,20 +1,28 @@
 # pyuvp
 
-pyuvp is a python package with ultrasonic velocity profiler Doppler algorithms
+pyuvp is a python package with ultrasonic velocity profiler Doppler algorithms. 
+We propose to share algorithms and techniques, starting with dealising methods
 
 
 * Free software: MIT license
-* Documentation: https://pyuvp.readthedocs.io.
+* Documentation: https://pyuvp.readthedocs.io. (under development)
 
 
 ## Features
 
-
 * Autocorrelation
 * Extended Autocorrelation
 
-## Credits
+Under development:
+cross-correlation
+staggered trigger
+staggered trigger triple PRT
 
+
+## Credits
+Universidade Tecnológica Federal do Parana - UTFPR
+LASCA - Advanced control laboratory
+NUEM - Multiphase Flow Research Group
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
