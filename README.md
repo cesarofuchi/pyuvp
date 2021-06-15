@@ -23,11 +23,17 @@ staggered trigger triple PRT
 
 
 ## Credits
-Universidade Tecnológica Federal do Parana - UTFPR
-LASCA - Advanced control laboratory
-NUEM - Multiphase Flow Research Group
+* Universidade Tecnológica Federal do Parana - UTFPR
+* LASCA - Advanced control laboratory
+* NUEM - Multiphase Flow Research Group
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+## Authors
+
+César Yutaka Ofuchi
+Fabio Rizental Coutinho
+
